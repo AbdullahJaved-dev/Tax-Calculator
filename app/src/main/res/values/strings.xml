@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tax Calculator</string>
+    <string name="tax_calculator_2022_2023">Tax Calculator 2022-2023</string>
+    <string name="tax_calculator_2021_2022">Tax Calculator 2021-2022</string>
+    <string name="enter_your_monthly_salary">Enter your monthly salary</string>
+    <string name="calculate_tax">Calculate Tax</string>
+</resources>
